@@ -1,5 +1,5 @@
-(defproject lein-droid/lein-droid "0.2.3"
-  :description "Plugin for easy Clojure/Android development and deployment"
+(defproject org.clojars.pw4ever/lein-droid-for-tbnl "0.2.3"
+  :description "Plugin for easy Clojure/Android development and deployment (customized for TBNL)"
   :url "https://github.com/clojure-android/lein-droid"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
