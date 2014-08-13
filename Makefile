@@ -8,6 +8,7 @@ all: doc
 doc: $(DOC)
 	git checkout gh-pages
 	cp $(DOC) index.html
+	-git add index.html
 	-git commit -a -m 'update doc'
 	git checkout master
 
